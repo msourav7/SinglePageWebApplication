@@ -1,0 +1,35 @@
+.footer{
+    background-color: white;
+    height: 150px;
+    width: 100%;
+    color: rgb(44 44 44);
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.bothdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#fdiv h1{
+    font: 700 2rem "Roboto";
+    text-transform: uppercase;
+    color: #5853ff;
+}
+#fdiv p{
+    font: 500 1.2rem "Roboto";
+}
+#sdiv h5{
+    font: 300 2rem "Roboto";
+    margin: 1rem 0;
+}
+#sdiv a{
+    color: rgb(44 44 44);
+    font: 900 1rem "cursive";
+}
+#sdiv a:hover{
+ color: #5853ff;
+}
