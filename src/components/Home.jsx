@@ -7,8 +7,8 @@ function Home() {
     <>
     <div className='home' id="home">
         <main>
-            <h1>tech Staa</h1>
-            <p>this is ok</p>
+            <h1>TechStar</h1>
+            <p>Solution to all your problems</p>
         </main>
     </div>
 
@@ -23,7 +23,7 @@ function Home() {
     <div className='home3' id="about">
         <div>
             <h1>Who we are</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla animi doloremque debitis, rerum corporis, recusandae repellat nisi illo eligendi nobis eos commodi praesentium repudiandae. Quia ex rerum, laboriosam, reiciendis explicabo architecto, corporis consequuntur nesciunt repellat rem harum consectetur est voluptates asperiores nam natus. Fuga, doloribus repellat ut recusandae delectus consectetur!</p>
+            <p>Our main aim is to bring technology products or services to market.Our organization formed to search for a repeatable and scalable business model, that is potentially producing and selling technological products - whether those are software, hardware or both. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla animi doloremque debitis, rerum corporis, recusandae repellat nisi illo eligendi nobis eos commodi praesentium repudiandae. Quia ex rerum, laboriosam, reiciendis explicabo architecto, corporis consequuntur nesciunt repellat rem harum consectetur est voluptates asperiores nam natus. Fuga, doloribus repellat ut recusandae delectus consectetur!</p>
         </div>
     </div>
     <div className='home4' id="brands">
