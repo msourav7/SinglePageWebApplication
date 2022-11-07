@@ -154,7 +154,7 @@ article div{
     align-items: center;
     justify-content: center;
     color:rgb(44,44,44);
-    cursor: pointer;
+    /* cursor: pointer; */
    
 }
 article div:hover{
@@ -164,7 +164,7 @@ article div:hover{
 svg{
     font-size: 3rem;
 }
-article p{
+article a{
     font: 900 1.2rem "cursive";
 }
 

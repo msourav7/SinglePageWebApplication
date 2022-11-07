@@ -32,19 +32,23 @@ function Home() {
             <article>
                 <div className='okk' style={{animationDelay:"0.3s"}}>
                     <AiFillGoogleCircle/>
-                    <p>Google</p>
+                    <a href='https://www.google.com/' target={"blank"}>Google</a>
+                    {/* <p>Google</p> */}
                 </div>
                 <div className='okk' style={{animationDelay:"0.5s"}}>
                     <AiFillAmazonCircle/>
-                    <p>Amazon</p>
+                    <a href='https://www.amazon.com/' target={"blank"}>Amazon</a>
+                    {/* <p>Amazon</p> */}
                 </div>
                 <div  className='okk'style={{animationDelay:"0.7s"}}>
                     <AiFillYoutube/>
-                    <p>YouTube</p>
+                    <a href='https://www.youtube.com/' target={"blank"}>YouTube</a>
+                    {/* <p>YouTube</p> */}
                 </div>
                 <div className='okk' style={{animationDelay:"1s"}}>
                     <AiFillInstagram/>
-                    <p>Instagram</p>
+                    <a href='https://www.google.com/' target={"blank"}>Instagram</a>
+                    {/* <p>Instagram</p> */}
                 </div>
             </article>
         </div>
